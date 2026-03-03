@@ -1,0 +1,12 @@
+server run command is :
+                    node server.js
+
+
+Open the any browser and type this is :
+                                    http://localhost:3000
+
+
+Other is :
+        npm init -y
+        npm install express socket.io
+
